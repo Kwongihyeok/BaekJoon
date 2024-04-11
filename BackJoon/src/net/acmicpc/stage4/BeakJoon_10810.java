@@ -18,7 +18,7 @@ public class BeakJoon_10810 {
 		for (int l = 0; l < arr.length; l++) {
 			arr[l] = 0;
 		}
-		
+		//
 		for (int p = 0; p < m; p++) {
 			i = sc.nextInt();
 			j = sc.nextInt();
